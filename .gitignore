@@ -1,0 +1,12 @@
+# Arquivos e diretórios gerados
+*.pyc
+__pycache__/
+
+# Configurações locais
+.vscode/
+.venv/
+venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
